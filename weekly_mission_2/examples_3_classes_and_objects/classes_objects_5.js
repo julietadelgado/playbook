@@ -16,7 +16,7 @@ class PullRequest {
   console.log("Ejemplo 5: Atributos con valores por default")
   const myPR1 = new PullRequest("LaunchX", "Mi Primer PR", 100)
   console.log(myPR1.getInfo())
-  // Outcome
+  // Output
   // Ejemplo 5: Atributos con valores por default
   // This PR is in the repo: LaunchX (status: OPEN) and was created on Tue Apr 12 2022 21:21:50 GMT-0500 (Central Daylight Time)
   

@@ -12,7 +12,7 @@ class Student {
 const julietaStudent = new Student("Julieta", 28, ["NodeJs", "Python"])
 console.log("Ejemplo 3: Instanciar un objeto con atributos")
 console.log(julietaStudent)
-// Outcome
+// Output
 // Ejemplo 3: Instanciar un objeto con atributos
 // Student {
 //     name: "Julieta",

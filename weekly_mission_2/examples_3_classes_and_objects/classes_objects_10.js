@@ -28,7 +28,7 @@ class Viajero extends Explorer {
 const viajero1 = new Viajero("Julieta", "LaunchX", "Node JS", "Abril 2022")
 console.log("Ejemplo 10: Overrinding methods")
 console.log(viajero1)
-// Outcome
+// Output
 // Ejemplo 10: Overrinding methods
 // Viajero {
 //     name: "Julieta", 
@@ -38,8 +38,8 @@ console.log(viajero1)
 // }
 
 console.log(viajero1.getNameAndUsername()) // Método de la clase padre
-// Outcome
+// Output
 // Explorer Julieta, username: LaunchX
 console.log(viajero1.getGeneralInfo()) // Método de la clase hija
-// Outcome
+// Output
 // Explorer Julieta, username: LaunchX, Ciclo Abril 2022

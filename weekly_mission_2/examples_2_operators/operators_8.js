@@ -11,7 +11,7 @@ const scores = [
 const scoresGreaterEighty = scores.filter((score) => score.score > 80)
 console.log("Ejemplo 8: Filtrando elementos por score")
 console.log(scoresGreaterEighty)
-// Outcome
+// Output
 // Ejemplo 8: Filtrando elementos por score
 // [
 //     { name: 'A', score: 95 },

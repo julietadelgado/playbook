@@ -16,7 +16,7 @@ console.log("Ejemplo 4: Métodos en los objetos")
 const myRepo = new Repository("LaunchX", "julietadelgado", "js", 100)
 console.log(myRepo.getInfo())
 
-// Outcome
+// Output
 // Ejemplo 4: Métodos en los objetos
 // Repository LaunchX has 100 stars
   

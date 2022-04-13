@@ -5,6 +5,6 @@ const countriesFirstThreeLetters = countries6.map((country) =>
 )
 console.log("Ejemplo 6: Uso de map para convertir todos los nombres de una lista a mayúsculas")
 console.log(countriesFirstThreeLetters)
-// Outcome
+// Output
 // Ejemplo 6: Uso de map para convertir todos los nombres de una lista a mayúsculas
 // ['FIN', 'DEN', 'SWE', 'NOR', 'ICE']

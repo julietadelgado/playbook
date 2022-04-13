@@ -9,5 +9,5 @@ const scores12 = [
 
 const score_less_than_80 = scores12.find((user) => user.score > 80) // returns first with condition
 console.log("Ejemplo 12. Name score found: " + score_less_than_80.name)
-// Outcome
+// Output
 // Ejemplo 12. Name score found: A

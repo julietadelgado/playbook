@@ -18,7 +18,7 @@ class Developer {
 console.log("Ejemplo  9: Herencia entre dos clases")
 const carloDev = new Developer("Carlo", "js", ["elixir", "groovy", "lisp"])
 console.log(carloDev)
-// Outcome
+// Output
 // Ejemplo  9: Herencia entre dos clases
 // Developer {
 //     name: "Carlo", 
@@ -35,7 +35,7 @@ const julsLaunchXDev = new LaunchXStudent("Julieta", "php", ["Laravel", "WordPre
 console.log(julsLaunchXDev)
 console.log(julsLaunchXDev.getName) // getter de la clase padre rehusada en la clase hija
 
-// Outcome
+// Output
 // LaunchXStudent {
 //     name: "Julieta", 
 //     mainLang: "php", 

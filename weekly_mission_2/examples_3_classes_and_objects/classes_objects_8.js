@@ -8,7 +8,7 @@ class Toolbox {
   console.log("Ejemplo 8: Métodos static")
   // Puedo llamar el método static directamente con el nombre de la clase
   console.log(Toolbox.getMostUsefulTools())
-  // Outcome
+  // Output
   // Ejemplo 8: Métodos static
   // ["Command line", "git", "Text Editor"]
 

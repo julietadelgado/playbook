@@ -8,6 +8,6 @@ const numbers4 = [1, 2, 3, 4, 5]
 const numbersSquare = numbers4.map((num) => num * num)
 console.log("Ejemplo 4: Imprimiendo la lista de elementos al cuadrado")
 console.log(numbersSquare)
-    // Outcome
+    // Output
     // Ejemplo 4: Imprimiendo la lista de elementos al cuadrado
     // [1 , 4, 9, 16, 25]
